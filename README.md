@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello there! 👋
 
-<!--
-**JoseAFlores777/JoseAFlores777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm José Adolfo Izaguirre, a passionate Fullstack developer from Honduras 🇭🇳. I have an immense love for computer engineering, exploring both the dazzling front-end world and the tremendous power of back-end systems.
 
-Here are some ideas to get you started:
+🚀 What excites me the most is the ability to automate repetitive tasks and optimize resources. It's incredible how code empowers me to transform monotony into efficiency, driving progress and productivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 My insatiable curiosity drives me to spend hours diving into new knowledge. But I don't stop at learning alone I thrive on putting that knowledge into practice 💪! Through exciting projects, I unleash my creativity and technical expertise to craft innovative solutions.
+
+✨ Moreover, I find great satisfaction in sharing my knowledge with others, whether it's teaching those eager to learn or inspiring fellow developers to reach new heights.
+
+Let's connect and collaborate on exciting projects together! 😄
+
+## Here is some more information about me:
+
+### Hobbies
+
+- :headphones: Listening to music
+- :guitar: Playing the acoustic guitar
+- :clapper: Watching series and movies
+- :coffee: Drinking lots of coffee
+### Soft skills
+### Tech Stack
+### Projects
+
+
