@@ -8,7 +8,7 @@
     <a href="www.joseiz.com" target="_blank">¡Visita mi portafolio! 😎</a>
   </p>
   <p align="center">
-    <a href="./README.md">English</a>
+    <a href="../README.md">English</a>
     ·
     <a href="/languages/readme_es.md">Español</a>
   </p>
