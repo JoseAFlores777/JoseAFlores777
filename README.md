@@ -16,6 +16,13 @@
   </p>
 </p>
 
+ <p align="right">
+  <a href="https://drive.google.com/file/d/14CG3PfIOwJJooeyry9_k9YeqiurnloVN/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Download%20my%20CV-293E7E?style=for-the-badge&logo=pencil" alt="Download my CV">
+  </a>
+</p>
+
+
 
 I'm José Adolfo Izaguirre, a passionate Fullstack developer from Honduras 🇭🇳. I have an immense love for computer engineering, exploring both the dazzling front-end world and the tremendous power of back-end systems.
 
