@@ -61,7 +61,7 @@ Soy José Adolfo Izaguirre, un apasionado desarrollador Fullstack de Honduras �
   <i>
     "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas."
   </i>
-  <br>
+  <br><br>
   <strong align="right">Proverbios 3:5-6</strong>
 </h4>
 
