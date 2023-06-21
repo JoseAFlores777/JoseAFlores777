@@ -55,4 +55,15 @@ Let's connect and collaborate on exciting projects together! 😄
 | <a href="https://github.com/JoseAFlores777/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseAFlores777&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jose's github stats" /></a> | <a href="https://github.com/JoseAFlores777/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAFlores777&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<br><br>
+<h2></h2>
+<h4 align="center">
+  <i>
+    "Trust in the Lord with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths."
+  </i>
+  <br><br>
+  <strong align="right">Proverbs 3:5-6</strong>
+</h4>
+
+
 
