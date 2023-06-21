@@ -1,11 +1,11 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/dcomaubkq/image/upload/v1687378890/portfolio/ggui3mvp1rcqpf2ako1z.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">José Izaguirre</h2>
- <p align="center"><i>¡Nunca dejes de aprender!</i></p>
+ <p align="center"><i>¡Nunca dejes de aprender! 🚀</i></p>
 </p>
 
   <p align="center">
-    <a href="www.joseiz.com" target="_blank">¡Visita mi portafolio! 😎</a>
+       Visita mi portafolio 😎 👉 https://www.joseiz.com/
   </p>
   <p align="center">
     <a href="../README.md">English</a>
