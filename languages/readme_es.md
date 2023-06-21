@@ -53,3 +53,15 @@ Soy José Adolfo Izaguirre, un apasionado desarrollador Fullstack de Honduras �
 # Estadísticas
 | <a href="https://github.com/JoseAFlores777/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseAFlores777&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estadísticas de GitHub de José" /></a> | <a href="https://github.com/JoseAFlores777/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAFlores777&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+<br><br>
+<h2></h2>
+
+<h4 align="center">
+  <i>
+    "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas."
+  </i>
+  <br>
+  <strong align="right">Proverbios 3:5-6</strong>
+</h4>
+
