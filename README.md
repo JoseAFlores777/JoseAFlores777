@@ -10,7 +10,7 @@
     <a href="www.joseiz.com" target="_blank">Visit my portfolio 😎 </a>
   </p>
   <p align="center">
-    <a href="/docs/readme.md">English</a>
+    <a href="/docs/README.md">English</a>
     ·
     <a href="/docs/readme_es.md">Español</a>
   </p>
