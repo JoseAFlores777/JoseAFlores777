@@ -19,35 +19,37 @@ Soy José Adolfo Izaguirre, un apasionado desarrollador Fullstack de Honduras �
 
 🚀 Lo que más me emociona es la capacidad de automatizar tareas repetitivas y optimizar recursos. Es increíble cómo el código me capacita para transformar la monotonía en eficiencia, impulsando el progreso y la productividad.
 
-🔭 Mi curiosidad insaciable me impulsa a pasar horas sumergiéndome en nuevos conocimientos. ¡Pero no me detengo solo en el aprendizaje, me encanta poner ese conocimiento en práctica 💪! A través de emocionantes proyectos, libero mi creatividad y experiencia técnica para crear soluciones innovadoras.
+🔭 Mi curiosidad insaciable me impulsa a pasar horas sumergido en nuevos conocimientos. ¡Pero no me detengo solo en el aprendizaje, prospero al poner ese conocimiento en práctica 💪! A través de proyectos emocionantes, desato mi creatividad y experiencia técnica para crear soluciones innovadoras.
 
-✨ Además, encuentro gran satisfacción en compartir mis conocimientos con los demás, ya sea enseñando a aquellos ansiosos por aprender o inspirando a otros desarrolladores a alcanzar nuevas alturas.
+✨ Además, encuentro una gran satisfacción en compartir mis conocimientos con los demás, ya sea enseñando a aquellos ansiosos por aprender o inspirando a otros desarrolladores a alcanzar nuevas alturas.
 
-¡Conéctate y colaboremos en proyectos emocionantes juntos! 😄
+¡Conectemos y colaboremos en proyectos emocionantes juntos! 😄
 
-# Hobbies
+# Pasatiempos
 
 - :headphones: Escuchar música
 - :guitar: Tocar la guitarra acústica
 - :clapper: Ver series y películas
 - :coffee: Beber mucho café
 
-# Habilidades blandas
+# Soft Skills
 
-[![Comunicación](https://img.shields.io/badge/Comunicación-Excelente-brightgreen)]()
-[![Resolución de Problemas](https://img.shields.io/badge/Resolución%20de%20Problemas-Avanzado-blue)]()
-[![Trabajo en Equipo](https://img.shields.io/badge/Trabajo%20en%20Equipo-Competente-yellow)]()
-[![Creatividad](https://img.shields.io/badge/Creatividad-Alta-orange)]()
+[![Communication](https://img.shields.io/badge/Comunicación-Excelente-brightgreen)]()
+[![Problem Solving](https://img.shields.io/badge/Resolución%20de%20problemas-Avanzado-blue)]()
+[![Teamwork](https://img.shields.io/badge/Trabajo%20en%20equipo-Competente-yellow)]()
+[![Creativity](https://img.shields.io/badge/Creatividad-Alta-orange)]()
 
-# Tecnologías
+# Stack Tecnológico
 
 | Lenguajes | Frameworks y bibliotecas |
 | --- | --- |
 | [![Mis habilidades](https://skillicons.dev/icons?i=java,cpp,php,js,ts)](https://skillicons.dev) | [![Mis habilidades](https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,nextjs,angular,react,rxjs,redux)](https://skillicons.dev) |
 
-| Bases de datos | Otros |
+| Bases de Datos | Otros |
 | --- | --- |
 | [![Mis habilidades](https://skillicons.dev/icons?i=mysql,postgres,mongo,firebase)](https://skillicons.dev) | [![Mis habilidades](https://skillicons.dev/icons?i=html,css,scss,tailwind,docker,maven,gcp,netlify,vercel,git,github,gitlab,idea,postman,vscode)](https://skillicons.dev) |
 
+
 # Estadísticas
-[![Estadísticas de GitHub de JoseAFlores777](https://github-readme-stats.vercel.app/api?username=JoseAFlores777)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/JoseAFlores777/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseAFlores777&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estadísticas de GitHub de José" /></a> | <a href="https://github.com/JoseAFlores777/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAFlores777&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
