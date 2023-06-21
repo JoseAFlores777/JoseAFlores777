@@ -1,5 +1,22 @@
 
 
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/dcomaubkq/image/upload/v1687378890/portfolio/ggui3mvp1rcqpf2ako1z.png" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">José Izaguirre</h2>
+ <p align="center"><i>Never stop Learning!</i></p>
+</p>
+
+  <p align="center">
+    <a href="www.joseiz.com" target="_blank">Visit my portfolio 😎 </a>
+  </p>
+  <p align="center">
+    <a href="/docs/readme.md">English</a>
+    ·
+    <a href="/docs/readme_es.md">Español</a>
+  </p>
+</p>
+
+
 I'm José Adolfo Izaguirre, a passionate Fullstack developer from Honduras 🇭🇳. I have an immense love for computer engineering, exploring both the dazzling front-end world and the tremendous power of back-end systems.
 
 🚀 What excites me the most is the ability to automate repetitive tasks and optimize resources. It's incredible how code empowers me to transform monotony into efficiency, driving progress and productivity.
@@ -10,24 +27,30 @@ I'm José Adolfo Izaguirre, a passionate Fullstack developer from Honduras 🇭�
 
 Let's connect and collaborate on exciting projects together! 😄
 
-# Here is some more information about me:
-
-## Hobbies
+# Hobbies
 
 - :headphones: Listening to music
 - :guitar: Playing the acoustic guitar
 - :clapper: Watching series and movies
 - :coffee: Drinking lots of coffee
-## Soft skills
-## Tech Stack
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,php,js,ts)](https://skillicons.dev)
-### Frameworks and libraries
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,nextjs,angular,react,rxjs,redux)](https://skillicons.dev)
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo,firebase)](https://skillicons.dev)
-### Others
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,docker,maven,gcp,netlify,vercel,git,github,gitlab,idea,postman,vscode)](https://skillicons.dev)
+# Soft skills
+
+[![Communication](https://img.shields.io/badge/Communication-Excellent-brightgreen)]()
+[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Advanced-blue)]()
+[![Teamwork](https://img.shields.io/badge/Teamwork-Proficient-yellow)]()
+[![Creativity](https://img.shields.io/badge/Creativity-High-orange)]()
+
+# Tech Stack
+
+| Languages | Frameworks and libraries |
+| --- | --- |
+| [![My Skills](https://skillicons.dev/icons?i=java,cpp,php,js,ts)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,nextjs,angular,react,rxjs,redux)](https://skillicons.dev) |
+
+| Databases | Others |
+| --- | --- |
+| [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo,firebase)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,docker,maven,gcp,netlify,vercel,git,github,gitlab,idea,postman,vscode)](https://skillicons.dev) |
+
+
 
 
 # Stats
