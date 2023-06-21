@@ -1,4 +1,4 @@
-### Hello there! 👋
+
 
 I'm José Adolfo Izaguirre, a passionate Fullstack developer from Honduras 🇭🇳. I have an immense love for computer engineering, exploring both the dazzling front-end world and the tremendous power of back-end systems.
 
@@ -20,7 +20,7 @@ Let's connect and collaborate on exciting projects together! 😄
 - :coffee: Drinking lots of coffee
 ## Soft skills
 ## Tech Stack
-### Lenguages
+### Languages
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,php,js,ts)](https://skillicons.dev)
 ### Frameworks and libraries
 [![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,nextjs,angular,react,rxjs,redux)](https://skillicons.dev)
