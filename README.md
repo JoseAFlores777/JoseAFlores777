@@ -7,7 +7,7 @@
 </p>
 
   <p align="center">
-    <a href="www.joseiz.com" target="_blank">Visit my portfolio 😎 </a>
+   Visit my portfolio 😎 👉 https://www.joseiz.com/
   </p>
   <p align="center">
     <a href="README.md">English</a>
@@ -51,9 +51,8 @@ Let's connect and collaborate on exciting projects together! 😄
 | [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo,firebase)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,docker,maven,gcp,netlify,vercel,git,github,gitlab,idea,postman,vscode)](https://skillicons.dev) |
 
 
-
-
 # Stats
-[![JoseAFlores777's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAFlores777)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/JoseAFlores777/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseAFlores777&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jose's github stats" /></a> | <a href="https://github.com/JoseAFlores777/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAFlores777&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
