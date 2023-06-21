@@ -10,16 +10,27 @@ I'm José Adolfo Izaguirre, a passionate Fullstack developer from Honduras 🇭�
 
 Let's connect and collaborate on exciting projects together! 😄
 
-## Here is some more information about me:
+# Here is some more information about me:
 
-### Hobbies
+## Hobbies
 
 - :headphones: Listening to music
 - :guitar: Playing the acoustic guitar
 - :clapper: Watching series and movies
 - :coffee: Drinking lots of coffee
-### Soft skills
-### Tech Stack
-### Projects
+## Soft skills
+## Tech Stack
+### Lenguages
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,php,js,ts)](https://skillicons.dev)
+### Frameworks and libraries
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,nextjs,angular,react,rxjs,redux)](https://skillicons.dev)
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo,firebase)](https://skillicons.dev)
+### Others
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,docker,maven,gcp,netlify,vercel,git,github,gitlab,idea,postman,vscode)](https://skillicons.dev)
+
+
+# Stats
+[![JoseAFlores777's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAFlores777)](https://github.com/anuraghazra/github-readme-stats)
 
 
